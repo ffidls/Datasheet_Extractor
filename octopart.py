@@ -109,8 +109,8 @@ def getLifecycleStatus(specs):
 
 
 def get_inf_PN(pn_lst, test_fl=False):
-    clientId = '6af7a788-4f5a-4a8a-ba12-6c8e0dbe00f7'
-    clientSecret = '13fd9ef2-9877-4bda-87f8-06ad951547f3'
+    clientId = ''
+    clientSecret = ''
     nexar = NexarClient(clientId, clientSecret)
     all_inf = []
     s = 0
