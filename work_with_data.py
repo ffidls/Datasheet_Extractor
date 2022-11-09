@@ -5,7 +5,7 @@ from telegram.ext import CommandHandler
 from telegram.ext import Updater, MessageHandler, Filters
 
 
-BOT_TOKEN = '5407866925:AAHCGkMLLoi1ZLjHauVFmPkD6-WRDRZbt90'
+BOT_TOKEN = ''
 
 
 def downloader(update, context):
